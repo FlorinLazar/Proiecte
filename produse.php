@@ -1,0 +1,7 @@
+<?php
+$fel2 = array("Platou boieresc"=>58.00,"Cotlete de berbecut marinate"=>48.00,"Friptura de rata de varza calita"=>48.00,"Friptura mixta"=>30.00,"Frigarui asortate"=>35.00,"Somon la cuptor"=>35.00,"File de Dorata"=>35.00,"Muschi de vita englezesc"=>46.00,"Medalion de vita cu bacon"=>42.00,"Muschi de vita argentinian"=>45.00,"Pui Kiev mediteranean"=>26.00,"Pui dulce picant"=>24.50,"Pui ca la Moldova"=>24.00,"Medalioane de muschiulet"=>26.00,"Friptura de porc flambata"=>25.50,"Friptura munteneasca"=>24.50);
+$fel1 = array("Ciorba de vacuta"=>10.00,"Ciorba de burta"=>11.00,"Ciorba zilei"=>8.00);
+$pizza = array("Pizza Gourmand"=>16.50,"Pizza cu fructe de mare"=>19.00,"Pizza Quatro Carne"=>17.00,"Pizza Autuna"=>17.00,"Pizza Peperoni"=>18.00,"Pizza Parna"=>18.00);
+$total = array("Platou boieresc"=>58.00,"Cotlete de berbecut marinate"=>48.00,"Friptura de rata de varza calita"=>48.00,"Friptura mixta"=>30.00,"Frigarui asortate"=>35.00,"Somon la cuptor"=>35.00,"File de Dorata"=>35.00,"Muschi de vita englezesc"=>46.00,"Medalion de vita cu bacon"=>42.00,"Muschi de vita argentinian"=>45.00,"Pui Kiev mediteranean"=>26.00,"Pui dulce picant"=>24.50,"Pui ca la Moldova"=>24.00,"Medalioane de muschiulet"=>26.00,"Friptura de porc flambata"=>25.50,"Friptura munteneasca"=>24.50,"Ciorba de vacuta"=>10.00,"Ciorba de burta"=>11.00,"Ciorba zilei"=>8.00,"Pizza Gourmand"=>16.50,"Pizza cu fructe de mare"=>19.00,"Pizza Quatro Carne"=>17.00,"Pizza Autuna"=>17.00,"Pizza Peperoni"=>18.00,"Pizza Parna"=>18.00);
+?>
+     
